@@ -190,11 +190,11 @@ const Header = () => {
                 </div>
                 <div>
                   <div className="text-slate-600 font-bold text-sm">
-                    31 Hurst St
+                    Dubai, U.A.E.
                   </div>
                   <div className="text-slate-500 text-sm">
                     {" "}
-                    31 Hurst St, Birmingham B5 4BD, UK
+                      Office 212, Building 1, Dubai Internet City, P.O. Box 500329
                   </div>
                 </div>
               </div>
